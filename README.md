@@ -1,6 +1,8 @@
 ## I'm Frontend Developer TaekSeon Yun👋
 <!--타이틀 부분-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon&count_private=true)
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">

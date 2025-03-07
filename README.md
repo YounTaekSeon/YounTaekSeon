@@ -1,6 +1,6 @@
 ## I'm Frontend Developer TaekSeon Yun👋
 <!--타이틀 부분-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon)](https://github.com/YounTaekSeon/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon&count_private=true)
 
 <!--내용 부분-->

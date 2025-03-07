@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Frontend Developer TaekSeon Yun👋
 <!--타이틀 부분-->
 
 <!--내용 부분-->

@@ -1,6 +1,5 @@
 ## I'm Frontend Developer TaekSeon Yun
-- 🔭 I’m currently working on ...
-<a href="http://www.mcst.co.kr/">
+🔭 I’m currently working on ... <a href="http://www.mcst.co.kr/">
   <img
     src="http://www.mcst.co.kr/images/logo.gif"/>&nbsp
 </a>

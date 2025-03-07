@@ -41,6 +41,15 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white" />&nbsp
 </div>
 
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:youneciohc@gmail.com">
+    <img
+      src="https://img.shields.io/badge/youneciohc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
 <!--
 **YounTaekSeon/YounTaekSeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

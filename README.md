@@ -36,9 +36,9 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=20232a" />&nbsp
 </div>
 
 <!--

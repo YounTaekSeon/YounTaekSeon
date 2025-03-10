@@ -4,9 +4,7 @@
   ![YounTaekSeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon&count_private=true&include_all_commits=true&hide_rank=true)
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounTaekSeon&langs_count=3&hide=typescript)](https://github.com/YounTaekSeon/github-readme-stats)
-  ### 📊 GitHub 활동
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YounTaekSeon&theme=github)
-
+  
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">

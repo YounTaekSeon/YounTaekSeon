@@ -1,7 +1,7 @@
 ## I'm Frontend Developer TaekSeon Yun
 🔭 I’m currently working on<a href="http://www.mcst.co.kr/"> MCST </a>
 <!--타이틀 부분-->
-  ![YounTaekSeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon&count_private=true&include_all_commits=true&hide_rank=true)
+  ![YounTaekSeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon&include_all_commits=true&hide_rank=true)
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounTaekSeon&langs_count=10)](https://github.com/YounTaekSeon/github-readme-stats)
   

@@ -3,7 +3,7 @@
 <!--타이틀 부분-->
   ![YounTaekSeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounTaekSeon&count_private=true&include_all_commits=true&hide_rank=true)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounTaekSeon&langs_count=3)](https://github.com/YounTaekSeon/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounTaekSeon&langs_count=5)](https://github.com/YounTaekSeon/github-readme-stats)
   
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
